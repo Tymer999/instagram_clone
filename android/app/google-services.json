@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1078953577660",
+    "project_id": "ints-app",
+    "storage_bucket": "ints-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078953577660:android:e81537850bd8296b6a54b9",
+        "android_client_info": {
+          "package_name": "com.example.inst_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2MEZFu_shUabJTp1WeJzICaucVK80iFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
